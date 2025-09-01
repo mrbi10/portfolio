@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Abinanthan V – Software Engineer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+↓ Scroll to explore
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## About Me
+I’m Abinanthan — a developer who treats code like a design medium. I love clean architecture, meaningful UI, and the subtle art of making things feel “just right.” Currently based in Chennai, I enjoy solving problems with elegance and precision.
 
-### `npm start`
+- **Age:** 20  
+- **Location:** Chennai, India  
+- **Interests:** UX, Design Systems, Typefaces  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Timeline
 
-### `npm test`
+### B.E. Computer Science and Engineering
+**Misrimal Navajee Munoth Jain Engineering College**  
+Nov 2022 – May 2026 (Expected)  
+Coursework includes C, Python, and core CS fundamentals. Focused on development, systems, and emerging tech.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### HSC (11th & 12th Standard) – Computer Science
+**Shri Natesan Vidyalaya Matriculation Higher Secondary School**  
+Jun 2020 – May 2022  
+Graduated with focus on Computer Science, Math, and programming foundations (HTML, CSS).
 
-### `npm run build`
+### SSLC (10th Standard)
+**Shri Natesan Vidyalaya Matriculation Higher Secondary School**  
+Jun 2019 – May 2020  
+Completed with strong foundation in core subjects including Math and Science.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Projects
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Student Verify App
+Verifies student data using Register No. and D.O.B with a clean React UI.  
+**Tech:** React, JSON, Excel, GitHub Pages, Render  
+[View Project](#)
 
-### `npm run eject`
+### Jarvis Voice Assistant
+Personal desktop assistant using voice commands for automating tasks like opening apps, searching, etc.  
+**Tech:** Python, pyttsx3, speechRecognition  
+[View Project](#)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Student Info System
+Basic student info portal with registration, editing, and search functionalities.  
+**Tech:** Python, SQLite3, Tkinter  
+[View Project](#)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Reddit Fake News Detector
+Detects fake news from Reddit comments using NLP and machine learning models.  
+**Tech:** Python, NLP, scikit-learn, Reddit API  
+[View Project](#)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Hotel Management System
+Console-based hotel room booking and billing system with CRUD operations.  
+**Tech:** C++, File Handling  
+[View Project](#)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Licenses & Certifications
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **NPTEL – Data Analytics with Python** (Issued Apr 2025)  
+- **Microsoft & LinkedIn – Career Essentials in Software Development** (Issued Jul 2024)  
+- **LinkedIn – Introduction to Career Skills in Software Development** (Issued Jul 2024)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Frontend
+React.js | HTML | CSS | JavaScript | Canva | Adobe Photoshop  
 
-### Analyzing the Bundle Size
+### Backend
+Node.js | Java | C | Python  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Tools
+Git | VSCode | Figma | Postman | Microsoft Office  
 
-### Making a Progressive Web App
+### Soft Skills
+Time Management | Video Editing | Branding | Content Editing | Career Management  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Fundamentals
+Programming Foundations: Fundamentals | Programming Foundations: Beyond the Fundamentals | Software Development | Tech Career Skills  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## Let’s Connect
+Have a project in mind, or just want to say hi? Drop a message below.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **GitHub:** [github.com/mrbi10](https://github.com/mrbi10)  
+- **LinkedIn:** [linkedin.com/in/mrbi](linkedin.com/in/mrbi)  
+- **Email:** [abinanthan1006@gmail.com](mailto:abinanthan1006@gmail.com)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2025 Abinanthan V. All rights reserved.
