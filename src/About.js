@@ -23,7 +23,7 @@ function About() {
             </div>
             <div>
               <span>Location</span>
-              <strong>Chennai, India</strong>
+              <strong>Chennai, Tamilnadu</strong>
             </div>
             <div>
               <span>Interests</span>
