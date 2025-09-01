@@ -1,0 +1,140 @@
+.achievements {
+  background: #f8f9fa;
+  padding: 80px 5vw;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  color: #111;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.achievements-list {
+  display: grid;
+  gap: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.achievement-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: white;
+  border-radius: 12px;
+  padding: 20px 25px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease;
+}
+
+.achievement-card:hover {
+  transform: translateY(-4px);
+}
+
+.achievement-year {
+  font-size: 1.5rem;
+  color: #0077b6;
+  font-weight: 700;
+  min-width: 70px;
+}
+
+.achievement-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #222;
+}
+
+.achievement-info p {
+  margin: 4px 0 0;
+  color: #555;
+}
+
+.achievements {
+  padding: 50px 20px;
+  background-color: #f9f9f9;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.achievements-list {
+  gap: 20px;
+  width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+.achievement-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  padding: 20px;
+  width: 700px;
+  transition: transform 0.2s ease;
+}
+
+.achievement-card:hover {
+  transform: translateY(-4px);
+}
+
+.achievement-year {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.achievement-info h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #0077b6;
+}
+
+.achievement-sub {
+  font-size: 0.95rem;
+  color: #444;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+
+.cert-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.skill-badge {
+  background-color: #e1f5fe;
+  color: #0277bd;
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+.achievement-card.alt1 {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.cert-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #f0f0f0;
+  padding: 5px;
+}
